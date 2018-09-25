@@ -1,0 +1,10 @@
+D:\Software Dev\Intro-to-CSharp\Projects\LanguageTranslator\LanguageTranslator\bin\Debug\LanguageTranslator.exe.config
+D:\Software Dev\Intro-to-CSharp\Projects\LanguageTranslator\LanguageTranslator\bin\Debug\LanguageTranslator.exe
+D:\Software Dev\Intro-to-CSharp\Projects\LanguageTranslator\LanguageTranslator\bin\Debug\LanguageTranslator.pdb
+D:\Software Dev\Intro-to-CSharp\Projects\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.csprojResolveAssemblyReference.cache
+D:\Software Dev\Intro-to-CSharp\Projects\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.LanguageTranslator.resources
+D:\Software Dev\Intro-to-CSharp\Projects\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.Properties.Resources.resources
+D:\Software Dev\Intro-to-CSharp\Projects\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.csproj.GenerateResource.Cache
+D:\Software Dev\Intro-to-CSharp\Projects\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.csproj.CoreCompileInputs.cache
+D:\Software Dev\Intro-to-CSharp\Projects\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.exe
+D:\Software Dev\Intro-to-CSharp\Projects\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.pdb

@@ -1,0 +1,10 @@
+D:\Software Dev\Intro-to-CSharp\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Software Dev\Intro-to-CSharp\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Software Dev\Intro-to-CSharp\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Software Dev\Intro-to-CSharp\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\Software Dev\Intro-to-CSharp\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.HelloWorld.resources
+D:\Software Dev\Intro-to-CSharp\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+D:\Software Dev\Intro-to-CSharp\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+D:\Software Dev\Intro-to-CSharp\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Software Dev\Intro-to-CSharp\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Software Dev\Intro-to-CSharp\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
