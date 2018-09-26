@@ -1,0 +1,10 @@
+C:\tfs\Book_VisualCSharp\Projects\TextBoxDemo\TextBoxDemo\bin\Debug\TextBoxDemo.exe.config
+C:\tfs\Book_VisualCSharp\Projects\TextBoxDemo\TextBoxDemo\bin\Debug\TextBoxDemo.exe
+C:\tfs\Book_VisualCSharp\Projects\TextBoxDemo\TextBoxDemo\bin\Debug\TextBoxDemo.pdb
+C:\tfs\Book_VisualCSharp\Projects\TextBoxDemo\TextBoxDemo\obj\Debug\TextBoxDemo.csprojAssemblyReference.cache
+C:\tfs\Book_VisualCSharp\Projects\TextBoxDemo\TextBoxDemo\obj\Debug\TextBoxDemo.frmTextBoxDemo.resources
+C:\tfs\Book_VisualCSharp\Projects\TextBoxDemo\TextBoxDemo\obj\Debug\TextBoxDemo.Properties.Resources.resources
+C:\tfs\Book_VisualCSharp\Projects\TextBoxDemo\TextBoxDemo\obj\Debug\TextBoxDemo.csproj.GenerateResource.cache
+C:\tfs\Book_VisualCSharp\Projects\TextBoxDemo\TextBoxDemo\obj\Debug\TextBoxDemo.csproj.CoreCompileInputs.cache
+C:\tfs\Book_VisualCSharp\Projects\TextBoxDemo\TextBoxDemo\obj\Debug\TextBoxDemo.exe
+C:\tfs\Book_VisualCSharp\Projects\TextBoxDemo\TextBoxDemo\obj\Debug\TextBoxDemo.pdb

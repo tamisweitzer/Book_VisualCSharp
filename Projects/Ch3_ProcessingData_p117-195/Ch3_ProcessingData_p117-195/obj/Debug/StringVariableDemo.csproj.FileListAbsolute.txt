@@ -1,0 +1,10 @@
+C:\tfs\Book_VisualCSharp\Projects\Ch3_ProcessingData_p117-195\Ch3_ProcessingData_p117-195\bin\Debug\Ch3_ProcessingData_p117-195.exe.config
+C:\tfs\Book_VisualCSharp\Projects\Ch3_ProcessingData_p117-195\Ch3_ProcessingData_p117-195\bin\Debug\Ch3_ProcessingData_p117-195.exe
+C:\tfs\Book_VisualCSharp\Projects\Ch3_ProcessingData_p117-195\Ch3_ProcessingData_p117-195\bin\Debug\Ch3_ProcessingData_p117-195.pdb
+C:\tfs\Book_VisualCSharp\Projects\Ch3_ProcessingData_p117-195\Ch3_ProcessingData_p117-195\obj\Debug\StringVariableDemo.csprojAssemblyReference.cache
+C:\tfs\Book_VisualCSharp\Projects\Ch3_ProcessingData_p117-195\Ch3_ProcessingData_p117-195\obj\Debug\Ch3_ProcessingData_p117_195.Properties.Resources.resources
+C:\tfs\Book_VisualCSharp\Projects\Ch3_ProcessingData_p117-195\Ch3_ProcessingData_p117-195\obj\Debug\Ch3_ProcessingData_p117_195.StringVariableDemo.resources
+C:\tfs\Book_VisualCSharp\Projects\Ch3_ProcessingData_p117-195\Ch3_ProcessingData_p117-195\obj\Debug\StringVariableDemo.csproj.GenerateResource.cache
+C:\tfs\Book_VisualCSharp\Projects\Ch3_ProcessingData_p117-195\Ch3_ProcessingData_p117-195\obj\Debug\StringVariableDemo.csproj.CoreCompileInputs.cache
+C:\tfs\Book_VisualCSharp\Projects\Ch3_ProcessingData_p117-195\Ch3_ProcessingData_p117-195\obj\Debug\Ch3_ProcessingData_p117-195.exe
+C:\tfs\Book_VisualCSharp\Projects\Ch3_ProcessingData_p117-195\Ch3_ProcessingData_p117-195\obj\Debug\Ch3_ProcessingData_p117-195.pdb
