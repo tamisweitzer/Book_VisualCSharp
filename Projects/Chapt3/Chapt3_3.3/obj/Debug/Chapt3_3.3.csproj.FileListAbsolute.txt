@@ -1,0 +1,7 @@
+C:\Users\tamis\Desktop\Chapt3\Chapt3_3.3\bin\Debug\Chapt3_3.3.exe.config
+C:\Users\tamis\Desktop\Chapt3\Chapt3_3.3\bin\Debug\Chapt3_3.3.exe
+C:\Users\tamis\Desktop\Chapt3\Chapt3_3.3\bin\Debug\Chapt3_3.3.pdb
+C:\Users\tamis\Desktop\Chapt3\Chapt3_3.3\obj\Debug\Chapt3_3.3.csprojAssemblyReference.cache
+C:\Users\tamis\Desktop\Chapt3\Chapt3_3.3\obj\Debug\Chapt3_3.3.csproj.CoreCompileInputs.cache
+C:\Users\tamis\Desktop\Chapt3\Chapt3_3.3\obj\Debug\Chapt3_3.3.exe
+C:\Users\tamis\Desktop\Chapt3\Chapt3_3.3\obj\Debug\Chapt3_3.3.pdb

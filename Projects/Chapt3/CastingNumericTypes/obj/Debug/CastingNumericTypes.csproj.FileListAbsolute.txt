@@ -1,0 +1,7 @@
+C:\Users\tamis\Desktop\Chapt3\CastingNumericTypes\bin\Debug\CastingNumericTypes.exe.config
+C:\Users\tamis\Desktop\Chapt3\CastingNumericTypes\bin\Debug\CastingNumericTypes.exe
+C:\Users\tamis\Desktop\Chapt3\CastingNumericTypes\bin\Debug\CastingNumericTypes.pdb
+C:\Users\tamis\Desktop\Chapt3\CastingNumericTypes\obj\Debug\CastingNumericTypes.csprojAssemblyReference.cache
+C:\Users\tamis\Desktop\Chapt3\CastingNumericTypes\obj\Debug\CastingNumericTypes.csproj.CoreCompileInputs.cache
+C:\Users\tamis\Desktop\Chapt3\CastingNumericTypes\obj\Debug\CastingNumericTypes.exe
+C:\Users\tamis\Desktop\Chapt3\CastingNumericTypes\obj\Debug\CastingNumericTypes.pdb
