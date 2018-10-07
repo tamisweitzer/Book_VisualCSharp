@@ -1,0 +1,7 @@
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\ch3.4DataTypesInMath\bin\Debug\ch3.4DataTypesInMath.exe.config
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\ch3.4DataTypesInMath\bin\Debug\ch3.4DataTypesInMath.exe
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\ch3.4DataTypesInMath\bin\Debug\ch3.4DataTypesInMath.pdb
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\ch3.4DataTypesInMath\obj\Debug\ch3.4DataTypesInMath.csproj.CoreCompileInputs.cache
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\ch3.4DataTypesInMath\obj\Debug\ch3.4DataTypesInMath.exe
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\ch3.4DataTypesInMath\obj\Debug\ch3.4DataTypesInMath.pdb
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\ch3.4DataTypesInMath\obj\Debug\ch3.4DataTypesInMath.csprojAssemblyReference.cache

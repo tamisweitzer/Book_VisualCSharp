@@ -1,0 +1,7 @@
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\Checkpoint3\bin\Debug\Checkpoint3.exe.config
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\Checkpoint3\bin\Debug\Checkpoint3.exe
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\Checkpoint3\bin\Debug\Checkpoint3.pdb
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\Checkpoint3\obj\Debug\Checkpoint3.csprojAssemblyReference.cache
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\Checkpoint3\obj\Debug\Checkpoint3.csproj.CoreCompileInputs.cache
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\Checkpoint3\obj\Debug\Checkpoint3.exe
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\Checkpoint3\obj\Debug\Checkpoint3.pdb
