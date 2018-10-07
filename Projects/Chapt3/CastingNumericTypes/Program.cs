@@ -25,8 +25,11 @@ namespace CastingNumericTypes
             Console.WriteLine((decimal)realNumber);     // 3
             Console.WriteLine((decimal)wholeNumber);    // 3
 
- 
+            decimal money = 4500.10m;
+            Console.WriteLine((int)money);              // 4500
 
+            double rate = 34.656;                       
+            Console.WriteLine((int)rate);               // 34
             Console.ReadLine();
 
 

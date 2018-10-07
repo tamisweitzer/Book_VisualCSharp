@@ -5,3 +5,10 @@ C:\Users\tamis\Desktop\Chapt3\CastingNumericTypes\obj\Debug\CastingNumericTypes.
 C:\Users\tamis\Desktop\Chapt3\CastingNumericTypes\obj\Debug\CastingNumericTypes.csproj.CoreCompileInputs.cache
 C:\Users\tamis\Desktop\Chapt3\CastingNumericTypes\obj\Debug\CastingNumericTypes.exe
 C:\Users\tamis\Desktop\Chapt3\CastingNumericTypes\obj\Debug\CastingNumericTypes.pdb
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\CastingNumericTypes\bin\Debug\CastingNumericTypes.exe.config
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\CastingNumericTypes\bin\Debug\CastingNumericTypes.exe
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\CastingNumericTypes\bin\Debug\CastingNumericTypes.pdb
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\CastingNumericTypes\obj\Debug\CastingNumericTypes.csprojAssemblyReference.cache
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\CastingNumericTypes\obj\Debug\CastingNumericTypes.csproj.CoreCompileInputs.cache
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\CastingNumericTypes\obj\Debug\CastingNumericTypes.exe
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\CastingNumericTypes\obj\Debug\CastingNumericTypes.pdb
