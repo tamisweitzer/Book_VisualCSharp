@@ -1,0 +1,10 @@
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.3_Tut_SalePriceCalculator\bin\Debug\3.3_Tut_SalePriceCalculator.exe.config
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.3_Tut_SalePriceCalculator\bin\Debug\3.3_Tut_SalePriceCalculator.exe
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.3_Tut_SalePriceCalculator\bin\Debug\3.3_Tut_SalePriceCalculator.pdb
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.3_Tut_SalePriceCalculator\obj\Debug\3.3_Tut_SalePriceCalculator.csprojAssemblyReference.cache
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.3_Tut_SalePriceCalculator\obj\Debug\_3._3_Tut_SalePriceCalculator.Properties.Resources.resources
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.3_Tut_SalePriceCalculator\obj\Debug\_3._3_Tut_SalePriceCalculator.SalePriceCalculatorForm.resources
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.3_Tut_SalePriceCalculator\obj\Debug\3.3_Tut_SalePriceCalculator.csproj.GenerateResource.cache
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.3_Tut_SalePriceCalculator\obj\Debug\3.3_Tut_SalePriceCalculator.csproj.CoreCompileInputs.cache
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.3_Tut_SalePriceCalculator\obj\Debug\3.3_Tut_SalePriceCalculator.exe
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.3_Tut_SalePriceCalculator\obj\Debug\3.3_Tut_SalePriceCalculator.pdb
