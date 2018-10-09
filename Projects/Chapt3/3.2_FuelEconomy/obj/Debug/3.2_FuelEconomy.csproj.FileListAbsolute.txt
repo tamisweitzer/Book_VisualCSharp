@@ -1,0 +1,10 @@
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.2_FuelEconomy\bin\Debug\3.2_FuelEconomy.exe.config
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.2_FuelEconomy\bin\Debug\3.2_FuelEconomy.exe
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.2_FuelEconomy\bin\Debug\3.2_FuelEconomy.pdb
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.2_FuelEconomy\obj\Debug\3.2_FuelEconomy.csprojAssemblyReference.cache
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.2_FuelEconomy\obj\Debug\_3._2_FuelEconomy.FuelEconomyForm.resources
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.2_FuelEconomy\obj\Debug\_3._2_FuelEconomy.Properties.Resources.resources
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.2_FuelEconomy\obj\Debug\3.2_FuelEconomy.csproj.GenerateResource.cache
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.2_FuelEconomy\obj\Debug\3.2_FuelEconomy.csproj.CoreCompileInputs.cache
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.2_FuelEconomy\obj\Debug\3.2_FuelEconomy.exe
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.2_FuelEconomy\obj\Debug\3.2_FuelEconomy.pdb

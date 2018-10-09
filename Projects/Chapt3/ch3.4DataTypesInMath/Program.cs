@@ -52,7 +52,20 @@ namespace ch3._4DataTypesInMath
             Console.WriteLine(result3);
 
 
+            // When casting a numeric type to a numeric type, you can use (type)variable to cast it
+            // When casting a string to a numeric type, such as when using the string from a form field
+            // then you must parse it: 
+            //      double myDouble = double.Parse(myVar.Text);
+            // When using a .Parse method, make sure you have a using statement for System
 
+
+            // Implicit string conversion
+            // If a number and a string are combined using the = operator, than C#
+            // will implicitly convert the number to a string, and concatenate the two
+            
+            int myInt = 2;
+            string myString = "2";
+            Console.WriteLine(myInt + myString);
 
             Console.ReadLine();
 

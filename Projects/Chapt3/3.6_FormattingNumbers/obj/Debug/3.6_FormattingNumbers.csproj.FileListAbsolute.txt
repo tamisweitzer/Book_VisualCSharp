@@ -1,0 +1,7 @@
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.6_FormattingNumbers\bin\Debug\3.6_FormattingNumbers.exe.config
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.6_FormattingNumbers\bin\Debug\3.6_FormattingNumbers.exe
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.6_FormattingNumbers\bin\Debug\3.6_FormattingNumbers.pdb
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.6_FormattingNumbers\obj\Debug\3.6_FormattingNumbers.csprojAssemblyReference.cache
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.6_FormattingNumbers\obj\Debug\3.6_FormattingNumbers.csproj.CoreCompileInputs.cache
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.6_FormattingNumbers\obj\Debug\3.6_FormattingNumbers.exe
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.6_FormattingNumbers\obj\Debug\3.6_FormattingNumbers.pdb
