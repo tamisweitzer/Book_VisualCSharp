@@ -34,7 +34,7 @@ namespace _3._3_Tut_SalePriceCalculator
                 discountRate = discountRate / 100;
                 discountAmount = originalPrice * discountRate;
                 salePrice = originalPrice - discountAmount;
-                7b
+                
                 lblSalePriceLabel.Text = salePrice.ToString("c");
             }
             catch (Exception ex)

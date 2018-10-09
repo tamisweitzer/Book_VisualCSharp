@@ -1,0 +1,10 @@
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.4_Tut_TestAverageApp\bin\Debug\3.4_Tut_TestAverageApp.exe.config
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.4_Tut_TestAverageApp\bin\Debug\3.4_Tut_TestAverageApp.exe
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.4_Tut_TestAverageApp\bin\Debug\3.4_Tut_TestAverageApp.pdb
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.4_Tut_TestAverageApp\obj\Debug\3.4_Tut_TestAverageApp.csprojAssemblyReference.cache
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.4_Tut_TestAverageApp\obj\Debug\_3._4_Tut_TestAverageApp.frmTestAveragesApp.resources
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.4_Tut_TestAverageApp\obj\Debug\_3._4_Tut_TestAverageApp.Properties.Resources.resources
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.4_Tut_TestAverageApp\obj\Debug\3.4_Tut_TestAverageApp.csproj.GenerateResource.cache
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.4_Tut_TestAverageApp\obj\Debug\3.4_Tut_TestAverageApp.csproj.CoreCompileInputs.cache
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.4_Tut_TestAverageApp\obj\Debug\3.4_Tut_TestAverageApp.exe
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.4_Tut_TestAverageApp\obj\Debug\3.4_Tut_TestAverageApp.pdb
