@@ -1,0 +1,10 @@
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.9_FieldDemo\bin\Debug\3.9_FieldDemo.exe.config
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.9_FieldDemo\bin\Debug\3.9_FieldDemo.exe
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.9_FieldDemo\bin\Debug\3.9_FieldDemo.pdb
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.9_FieldDemo\obj\Debug\3.9_FieldDemo.csprojAssemblyReference.cache
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.9_FieldDemo\obj\Debug\_3._9_FieldDemo.FieldDemoForm.resources
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.9_FieldDemo\obj\Debug\_3._9_FieldDemo.Properties.Resources.resources
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.9_FieldDemo\obj\Debug\3.9_FieldDemo.csproj.GenerateResource.cache
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.9_FieldDemo\obj\Debug\3.9_FieldDemo.csproj.CoreCompileInputs.cache
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.9_FieldDemo\obj\Debug\3.9_FieldDemo.exe
+C:\tfs\Book_VisualCSharp\Projects\Chapt3\3.9_FieldDemo\obj\Debug\3.9_FieldDemo.pdb

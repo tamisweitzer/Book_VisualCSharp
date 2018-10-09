@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9458702C-9B1B-4E30-A017-07969A185181}</ProjectGuid>
+    <ProjectGuid>{3E22EF59-4654-4230-815E-8217FC3AF873}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_3._9_NamedConstants</RootNamespace>
-    <AssemblyName>3.9_NamedConstants</AssemblyName>
+    <RootNamespace>_3._9_FieldVariables</RootNamespace>
+    <AssemblyName>3.9_FieldVariables</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
